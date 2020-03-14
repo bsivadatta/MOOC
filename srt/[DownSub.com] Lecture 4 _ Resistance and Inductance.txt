@@ -1,0 +1,785 @@
+so next is disadvantages of low power factor
+right so what are the disadvantages for a
+
+three phase balance system for example say
+if load is pl say some terminal voltage is
+
+v and power factor is cos phi then load current
+is given by il is equal to pl upon root three
+
+v cos phi this is equation thirty five now
+if pl and v if both are constants say then
+
+the load current il is inversely proportional
+to the power factor if pl and v both are constants
+
+that is phi constant cos phi is constant if
+then if cos phi is low then il is large if
+
+pl v constant then cos phi is low so il will
+be large the poor power factor of the system
+
+has the following disadvantages so this is
+a for first couple of hours this is for your
+
+some general ideas of the system or power
+factor now number one the rating of generators
+
+and transformers are inversely proportional
+to the power thus generators and the ran transformers
+
+are required to deliver same load that is
+real power at low power factor if power factor
+
+is poor hence system kva or mva supply will
+increase right because if power factor is
+
+poor although to supply the same real power
+that kva or mva supply will increase because
+
+reactive power will increase right
+
+now bec hence many many other things are associated
+with that later we will discuss at low power
+
+factor the transmission lines feeders or cable
+have to carry more current for the same power
+
+to be transmitted because because because
+of poor power factor more ah your what you
+
+call reactive power has to flow through the
+line right so this thus conductor size will
+
+increase because current will increase right
+therefore ampacity of the conductor will increase
+
+conductor size will increase if current density
+in the line is to be kept constant right therefore
+
+ah at low power factor the transmission lines
+feeder or cable will have to carry more current
+
+for the same power to be transmitted thus
+conductor size will increase if current density
+
+in the line to be kept constant right therefore
+more copper is required to for transmission
+
+lines feeders and cables to deliver the same
+load but at low power factor then we get low
+
+power factor current will be high right therefore
+the conductor size will increase right therefore
+
+this if conductor size increases is you did
+ah if you you did more volume of the copper
+
+will be required right so that way it is that
+way it is ah i will explain right if it is
+
+now conductors are are conductor right all
+these things are there but volume of the conductor
+
+will increase right for to for the same load
+to be transmitted therefore power factor is
+
+an poor power factor has lot of disadvantages
+right number three is power loss is proportional
+
+to the square of the current and hence inversely
+proportional to the square of the power factor
+
+so more power losses incur at low power factor
+and hence poor efficiency that means transmission
+
+line efficiency will be poor because line
+current will increase and therefore power
+
+loss will increase right so this is number
+three and number four is low lagging power
+
+factor result in large voltage drop right
+which result in poor voltage regulation hence
+
+additional regulating equipment is required
+to keep the voltage drop within permissible
+
+limit right so all these are the disadvantages
+of poor power factor we always want that for
+
+any system it should operate at unity power
+factor perhaps reality it may not be possible
+
+but we want that right so electric utilities
+insist the industrial consumer particularly
+
+industrial consumers to maintain the power
+factor zero point eight or above right bec
+
+industry they have different parts of tariff
+right sometimes they charge they charge on
+
+kilowatt rate he got kilowatt demand kva demand
+they have two part or three part tariff right
+
+if your power factor is poor then kva demand
+will be more then more tariff based on kva
+
+demand also they charge utilities they charge
+from the industry on kva demand thats why
+
+they have to improve the power factor right
+so the power tariffs are devised to penalize
+
+the consumers with low lagging power factor
+and force them to install power factor correct
+
+correction devices for example some capacitor
+that if your power factor is poor
+
+you will take you will draw more kva from
+the utility right and in this case you have
+
+to pay more money because they they have a
+two part tariff the charge on your maximum
+
+kva demand also if your kva demand is less
+if kva demand is less means power factor is
+
+better right or kva demand is more means power
+factor is poor so thats why they will always
+
+try to see that kva demand is less because
+they one part of that tariff is based on their
+
+kilo volt ampere or kva demand right now various
+causes of low power factor most of the induction
+
+motors operate at lagging power factor right
+the power factor of these motors falls with
+
+the decrease of load this is one reason then
+second one is occurrence of increase supply
+
+main voltage during low load period right
+the magnetizing current of inductive reactance
+
+increase and power ah of the electrical plant
+as a whole comes down right ah it is it is
+
+actually power factor right third one is very
+low lagging power factor of agriculture motor
+
+pumpset agricultural motor pumpset they operate
+at very low power factor right i mean very
+
+poor and because of that also sometimes agricultural
+motor pump sets also you will find that frequent
+
+working of the winding fault will be there
+right then arc lamps electric discharge lamps
+
+and some other electric equipments operate
+at very low power factor right arc and induction
+
+furnaces operate on very low lagging power
+factor
+
+so these are some of the equipment they operate
+at very low lagging power factor right these
+
+are some of the so ah your what you call the
+they are common a common reason for low various
+
+cases for low power factor right next will
+take another example right a peak demand of
+
+a generating station is ninety megawatt and
+load factor is point six the plant capacity
+
+factor and plant use factor are point five
+and point eight respectively this plant capacity
+
+factor and plant use factor earlier we have
+discussed right determine daily energy produced
+
+b installed capacity of plant right and and
+c that reserve capacity of plant and d utilization
+
+factor this four things we have to obtain
+daily energy produced then installed capacity
+
+of plant then reserve capacity of plant and
+d utilization factor right so solution maximum
+
+demand is ninety megawatt this is given maximum
+demand is given ninety megawatt right and
+
+your load factor is given point six that is
+also given therefore average demand is equal
+
+to maximum demand into load factor so average
+demand is ninety into point six hence fifty
+
+four megawatt this is the average demand now
+daily daily energy produced is equal to average
+
+demand into twenty four hours in a day
+
+so twenty four that is fifty four into twenty
+four it is equal to one two nine six megawatt
+
+hour right so from equation three now plant
+factor is equal to this part b but b we have
+
+to find out installed capacity of plant now
+plant factor is equal to annual energy produced
+
+right divided by maximum plant rating into
+the time plant factor is given point five
+
+it is given right and actual energy produced
+already you have got it one two nine six megawatt
+
+hour this also you have got it therefore therefore
+maximum plant rating it is one two nine six
+
+right divided by point five into twenty four
+is equal to hundred eight megawatt this is
+
+the plant rating therefore plant rating is
+equal to installed capacity so installed capacity
+
+is hundred eight megawatt right now part c
+reserve capacity is equal to installed capacity
+
+minus peak demand installed capacity is hundred
+eight megawatt and peak demand is ninety megawatt
+
+that is already given peak demand is given
+ninety megawatt right therefore hundred eight
+
+minus ninety that is eighteen megawatt right
+and from equation two utilization factor right
+
+uf is equal to maximum demand of the system
+divided by rated system capacity maximum demand
+
+is ninety megawatt and this is rated system
+capacity it is installed capacity that is
+
+that is the same thing that is the rated system
+capacity hundred eight megawatt so utilization
+
+factor is ninety divided by hundred eight
+that is is equal to point eight three three
+
+right right so this is the general so some
+examples some four five examples ah standard
+
+examples we have taken for these you know
+that introduction part all together structure
+
+of power systems and few other aspects right
+so from this sums we have we have we have
+
+some general ideas regarding the different
+terminology regarding transmission generation
+
+transmission and distribution systems right
+plus we have seen that relationship between
+
+load factor and loss factor that how direct
+it is not possible but some relationships
+
+has been established and those formula for
+relationship between loss factor and load
+
+factor are commonly used right and some general
+ideas you have regarding different type of
+
+load factor loss factor utilization factor
+coincidence factor then demand factor then
+
+diversity factor all this terminology ah in
+the beginning we have used right and after
+
+this we will ah we will ah start for this
+thing is that that your what you call that
+
+ah resistance inductance capacitance of the
+transmission line
+
+first we will see that resistance then we
+will see that your what you call ah ah inductance
+
+and then will see the capacitance of the this
+thing transmission line right so these are
+
+the common thing for this ah power system
+course and so first thing is that will start
+
+from the this thing that resistance and inductance
+of transmission lines after that we will see
+
+that your what you call that capacitance so
+basic purpose of a transmission network is
+
+to transfer electrical energy that we have
+seen these thing we have we have the previous
+
+thing from generating units at various locations
+right to that distribution systems which ultimately
+
+supplies the load so transmission system actually
+transmits power from the generating to the
+
+consumer distribution side right so transmission
+line also interconnect neighboring power utilities
+
+just we have discussed before right which
+allows not only economic dispatch of electrical
+
+power within regions during normal conditions
+but also transfer of power between regions
+
+during emergencies right so this is that interconnected
+operations we have seen before that how actually
+
+different areas are interconnected how it
+will be useful that reasons for interconnections
+
+right basically a transmission line has four
+parameters resistance inductance capacitance
+
+and shunt conductance these four parameters
+are there for transmission system a transmission
+
+line so generally ah your resistance is a
+important part of a transmission line ah because
+
+it consumes a copper loss i square r right
+it that is the major thing
+
+so resistance here are important and for transmission
+system that ah different for different your
+
+what you call different voltage levels the
+different type of conductors are used particularly
+
+for transmission system ah i if i can recall
+all sort of thing that you will find the conductors
+
+names name of the animals like zebra then
+tiger right then your wolf that different
+
+name of the different animals right those
+conductors and it depends on the voltage levels
+
+different conductors has ah different resistance
+per ohm per kilometer and as well as that
+
+reactance right so while of course it has
+a it bundled conductors are there double circuit
+
+lines are there different type of ah when
+you have seen that high tension transmission
+
+line we have seen in each face you may have
+two or three or even more conductors bundle
+
+conductors are there sometime single conductors
+are there in each phase right so all these
+
+all these things ah your this resistance depends
+on the your of course it depends on the type
+
+of the ah material whatever used for the conductor
+and its cross sectional area because we know
+
+r is equal to resistance is equal to rho into
+upon a is the cross sectional area of the
+
+conductor
+
+so this when if i if i recall correctly the
+resistance of course it depends on the cross
+
+sectional area if you have a if you have a
+very you know large if the cross section of
+
+the conductor is large right then r is equal
+to rho l by a so later the resistance will
+
+be lower right but in the case of reactance
+resistance vary ah in a very you know in a
+
+thirty three kv to four hundred kv transmission
+lines resistance are different they are totally
+
+different i mean quite lower value to higher
+higher value to lower lower value from low
+
+voltage to high voltage where is in the case
+of inductance and and hence the reactance
+
+ah whenever we try to compute i was making
+some computation i found that reactance ah
+
+part generally ah v with voltage level from
+thirty three kv to ah say four hundred kv
+
+reactant it will find varies in between point
+two six point two six ohm per kilometer to
+
+point three four or point three five ohm per
+kilometer right this way more or less it varies
+
+right for a resistance where resistance various
+is much more for ah your your transmission
+
+ah line right
+
+so later will try to see so this ah this ah
+shunt this shunt conductance actually we have
+
+told three parameters for resistance ah inductance
+capacitance and shunt conductance so shunt
+
+conductance actually accounts for leakage
+current flowing across the insulators and
+
+ionized path wise in the air right so but
+this leakage currents are negligible this
+
+leakage currents are negligible as compared
+to the current flowing in the transmission
+
+lines so this shunt conductance conductance
+theme will not considered for this our study
+
+right but for the sake of you know clarification
+basically for transmission line we consider
+
+four parameters so resistance inductance capacitance
+and your conductance right so it is for across
+
+the insulator it may happen and ionized path
+wise in the year right but the series resistance
+
+cause a causes a real power loss in the conductor
+because i square loss r loss will be there
+
+so resistance of the conductor is very important
+in transmission efficiency evaluation and
+
+economic studies because if resistance is
+more then power loss will be more right so
+
+this will be this is very important second
+thing is the power transmission capacity of
+
+the transmission line is mainly governed by
+the series inductance ax right for a transmission
+
+line if you see that r by x ratio is quite
+small or other x by r ratio is quite high
+
+right therefore this your power transmission
+capacity of the transmission line is mainly
+
+governed by the series inductance right and
+third point is the shunt capacitance causes
+
+charging current to flow in the line right
+and assumes importance for medium and long
+
+transmission line long overhead lines if it
+is a cable then perhaps at low voltage level
+
+leven eleven kv also you have to consider
+the charging current you cannot ignore right
+
+but for overhead transmission line this charging
+a your shunt capacitance upto thirty three
+
+kv level you may ignore but sixty six even
+thirty three kv people are considering it
+
+but if it is thirt sixty six kv or above you
+have to consider the your shunt capacitance
+
+but if the distribution side at eleven kv
+site there is no need to consider the for
+
+overhead distribution overhead eleven kv distribution
+system there is no need to consider the your
+
+charging capacitance or shunt capacitance
+right but for cable you have to consider even
+
+it is eleven kv also you have to consider
+because their charging capacitance is quite
+
+i mean it has a significant value right you
+cannot you cannot ignore that right so so
+
+these parameters are uniformly distributed
+throughout but can be lumped for the purpose
+
+of analysis an approximate basis actually
+transmission line you have seen these parameters
+
+are uniformly distributed right but for our
+understanding and
+
+for our analysis will consider they can be
+lumped for the purpose of analysis an approximate
+
+basis so this way we will analyse for example
+let us start from the line resistance right
+
+so generally the dc resistance of a solid
+round conductor is given by we put r dc is
+
+equal to rho into l upon a this is equation
+one because this is a second topic so this
+
+is again equation one right rho is equal to
+resistivity of the conductor l is equal to
+
+length of the conductor and a is equal to
+cross sectional area of the conductor right
+
+so the conductor resistance is affected by
+three factors one is the frequency second
+
+is the spiralling and third is the temperature
+this three factors basically affects the conductor
+
+resistance and this is basically a dc resistance
+r dc is equal to rho into l by a right 
+
+so the dc resistance of a standard conductor
+is greater than the value given by equation
+
+one because spiralling of the actually a actually
+if you look at the if you look at that the
+
+transmission conductors they are actually
+your spiralling of the strands make them longer
+
+than the conductor itself it is not a solid
+round conductor it is conductor if it is stranded
+
+stranded conductor right and because of spiralling
+that actual length is slightly or longer than
+
+the conductor itself right this ink the increase
+in resistance due to spiralling is around
+
+one percent for three strand conductors and
+about two percent for concentrically stranded
+
+conductors
+
+so little bit higher but one percent two percent
+is ah not that very high but you have to consider
+
+you have to consider now when an alternating
+current flows through a conductor the current
+
+distribution is actually not uniform right
+for dc current the current distribution is
+
+uniform right over the conductor cross sectional
+area and the degree of non uniformity increases
+
+with increase in frequency actually if it
+is a dc current no there it suppose current
+
+is suppose cross-sectional area is say five
+centimeters square for a cond a very large
+
+of course five centimeter square and say five
+ampere current is flowing so current density
+
+will be five five five one ampere per centimeter
+square and it is uniform for dc current right
+
+but when alternating current or ac current
+flows right through a conductor the current
+
+distribution is not uniform right over the
+conductor cross sectional area and the degree
+
+of non uniformity increases right with increase
+in frequency and this will see later on when
+
+you will study this inductance right the current
+density is greatest at the surface of the
+
+conductor this causes the ac resistance to
+somewhat higher than the dc resistance right
+
+and this effect is called as skin effect when
+you will study inductance at that time will
+
+see what is skin effect right that means at
+every every point i of that cross section
+
+the current density is not uniform for your
+ah these thing when ah for a alternating current
+
+right current density is different
+so that means this source that ac resistance
+
+is higher than the dc resistance right so
+this effect actually is known as skin effect
+
+so the conductor resistance increases with
+the increase of the temperature if you know
+
+that if temperature varies then conductor
+resistance also will increase right for small
+
+changes in temperature right the resistance
+increases linearly as temperature increases
+
+if temperature changes is small the resistance
+will also if the this thing increase your
+
+what you call linearly so and the resistance
+that of temperature t is given by you know
+
+this rt is equal to r zero one plus alpha
+zero into t this is equation two where rt
+
+is equal to resistance at t degree celsius
+these are all basic thing right and r zero
+
+is equal to resistance at zero degree celsius
+and alpha zero is the temperature coefficient
+
+of resistance at zero degree celsius so by
+equation two by using equation two the resistance
+
+are two at a temperature t two degree celsius
+can be found if the resistance r one at a
+
+temperature t one degree celsius is known
+that is that r two upon r one right is equal
+
+to t two plus one upon alpha zero divided
+by t one plus one upon alpha zero then see
+
+if you know if you if you know the resistance
+r two at temperature a t two degree centigrade
+
+can be found if the resistance r two r two
+can be found at t or temperature t two
+
+if the resistance r one at temperature t one
+if it is if it is known to you so what will
+
+do from this relation we will write one equation
+r two is equal to r zero plus one plus ah
+
+alpha zero you are t two another one will
+write r one is equal to r zero one plus alpha
+
+zero t one and then you will get r two upon
+r one is equal to t two plus one upon alpha
+
+zero upon t one plus one upon alpha zero right
+now this is the this is that your ah what
+
+you call this is the resistance and will although
+will study everything slowly and slowly and
+
+i believe that ah many of you have studied
+these inductance capacitance so all these
+
+things right so ah during this time apart
+from of course next will come inductance after
+
+that capacitance and after that that medium
+line long line short line but before that
+
+i am giving one exercise to all of you and
+you try to do these for example for example
+
+this is an exercise for you right this is
+an exercise for you suppose you have all these
+
+things will study but in advance i am giving
+suppose you have a transmission line this
+
+side is sending end this voltage is say v
+one angle delta one this side is receiving
+
+end is sending end voltage v two delta two
+right this importance of the line is r plus
+
+jx current flowing through this line is i
+and here you have load p plus jq this is the
+
+load right
+
+now i am not writing anything my recorded
+voice you can make out right now my objective
+
+is i want to maintain this v one and v two
+this is voltage magnitude v two voltage magnitude
+
+i want to maintain my v one must be equal
+to v one must be equal to v two i want to
+
+maintain that for which i have to connect
+a shunt capacitor here which is injecting
+
+that say qc i put j qc which injecting a your
+what you call a reactive power here right
+
+to find to maintain voltage initially when
+p when it was not there v two was say v two
+
+was less than v one it is a lagging load so
+v two was less than v one current is flowing
+
+in this direction now as soon as i put some
+value qc here i want through this i want to
+
+maintain v one is equal to v two then then
+i want to find out qc in terms of i made function
+
+of in terms of v one v two p and q delta has
+to eliminated there should not be any delta
+
+in mathematical expression i want to find
+out qc must be function of v one v two p and
+
+q right ah only given hint is that your ah
+qc when you will try to find out it will be
+
+quadratic equation of qc there will be two
+solutions for qc one is feasible and other
+
+is not feasible but both the solution will
+be function of v one v two p and q but one
+
+is feasible other is not feasible right so
+this exercise
+
+i am giving you and those will take this course
+ah this is an exercise if you can do this
+
+of your own i will i will solve it but before
+that before those video lecture when you will
+
+see before that if anybody can do it and can
+show this to me then i will appreciate that
+
+right so this a very interesting problem so
+

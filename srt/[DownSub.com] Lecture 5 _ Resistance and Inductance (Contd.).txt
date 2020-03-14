@@ -1,0 +1,839 @@
+so now ah we will go for the inductance of
+transmission line ah the basic concepts right
+
+so we know that a conductor when carrying
+current has a magnetic field around a it right
+
+for example suppose if we apply right hand
+rule suppose if this is your co is if this
+
+is your conductor right and if you have the
+conductor in the like this then if this is
+
+the direction of the current flow then this
+is that anti clock if you see that anticlockwise
+
+this is the direction of right so so whenever
+a conductor carrying current it has a magnetic
+
+field around it right so the magnetic lines
+of force are concentric ah circles right having
+
+their say having their centres at the centre
+of the conductor if this is the conductor
+
+if this is the conductor then they are they
+are concentric circles right and there centre
+
+at the centre of the conductors if i rapid
+like this and if this is the direction of
+
+the current the term the upwards then you
+have the magnetic field right but they are
+
+concentric circles actually and there centre
+will be at the centre of the conductor right
+
+so the voltage ah in that conductor right
+induced in the conductor can be written as
+
+e is equal to their your d psi by d t volt
+right everywhere wherever possible i have
+
+written the units right so it is e is equal
+to d psi by d t volt this is actually equation
+
+number four right where psi represent the
+flux linkages of the conductor in weber tones
+
+this is weber tones right so this equation
+four it can be written in this form right
+
+in this form it can be written so it is e
+is equal to d psi by d t it would make it
+
+like this e is equal to d psi upon of d i
+into d i upon d t is equal to you write down
+
+l into d i upon d t this is equation five
+where l is equal to d psi by d i all right
+
+so that means l it actually is a constant
+of proportionality it is basically inductance
+
+right so for a for a linear when l is equal
+to d psi l is equal to d psi by d i is the
+
+inductance in henrys
+in a linear magnetic circuit right flux linkages
+
+vary linearly with the current right such
+that the inductance always remain constant
+
+right so if the magnetic circuit is linear
+then instead of a and and flux linkages vary
+
+linearly with the current therefore inductance
+always we will remain constant that means
+
+this l is equal to d psi by d i we can write
+l is equal to psi by i in henry right so as
+
+it is linear magnetic circuit so we can write
+like this that l is equal to psi by i right
+
+so in that terms will remain constant so it
+is in henry so in this is given equation number
+
+six right
+so actually one more thing i would like to
+
+i would like to tell that certain look ah
+actually lambda symbol is like this right
+
+but my habit has become to write lambda like
+this so throughout this i have to use this
+
+right so ah over all so there should not be
+any [laughter] any symbolic [laughter] symbolic
+
+change or anything so this high actually we
+use lambda c this thing as a flux linkages
+
+right so it provide equation six we can write
+that lambda is equal to we will actually lambda
+
+is equal to psi right flux linkages but we
+representing it by lambda now right and lambda
+
+and psi are the r m s values of the flux linkages
+and current respectively these are the r m
+
+s values and this is equation seven right
+so making use of amperes law if you that is
+
+that making use of amperes law which relates
+magnetic field intensity h and and to the
+
+current enclosed that is i suffix is enclosed
+current i enclosed right and relates magnetic
+
+field intensity is the loop integral this
+integral one this is called loop integral
+
+a h into d l is equal to i enclosed right
+so that means this is your amperes law that
+
+you know from you know physics right so this
+is equation number eight right at the same
+
+time because later this equation will be used
+this equation will be used right
+
+now the flux density right that is in weber
+per meter square right is given by b is equal
+
+to mu into h that you know right so this is
+equation nine where mu is equal to mu zero
+
+in to mu r and mu zero is equal to four pi
+into ten to the power minus seven henry per
+
+meter is the permeability of the free space
+and mu r is the relative permeability right
+
+so what we will can do it so replacing d d
+by d t in equation four that means this equation
+
+this equation four that means this equation
+right you replace d by d t right by j omega
+
+and psi instead of psi i said psi and lambda
+both are same you take so right so in that
+
+case that in equation four if you replace
+d by d t by j omega the steady state a c voltage
+
+drop due to alternating flux linkages can
+be obtained as that v is equal to j omega
+
+l i that is j omega lambda lambda is equal
+to l i right
+
+psi is equal to lambda lambda is equal to
+l i so this voltage drop in v j omega l i
+
+so j omega l is nothing but that your reactance
+you know you can i is the r m s value of the
+
+current so that means j omega and l i is equal
+to your flux linkage lambda so b is equal
+
+to j omega lambda this is actually equation
+ten right now similarly if you want to find
+
+out the mutual inductance between two circuits
+it is defined as the flux linkage of one circuit
+
+due to current in the second circuit right
+so it is it may be given as ah generally it
+
+is m a that is m two one later we will see
+in the further when you will take the ah your
+
+conductor if to find out the inductance of
+the ah single phase to a line and other things
+
+conductors inductance where that i will see
+that mutual inductance also
+
+so in that case that we can write m two one
+is equal to lambda two one upon i one right
+
+that means this is that mutual inducts it
+is henry it is ele it is your equation number
+
+eleven is given right so so mutual flux linkage
+between two circuits is defined as the flux
+
+linkage of one circuit due to current in the
+second circuit right so that means this is
+
+the flux linkage ah this thing due to the
+current of the second circuit due to the current
+
+in the so we are what we call ah due to current
+in the there what is this between two circuits
+
+is defined as the flux linkages of one circuit
+due to the current in the second circuit so
+
+that is flu if the lambda two one upon i one
+that is your flux linkage of one circuit due
+
+to the current in the ah second circuit due
+to the current into the first circuit that
+
+is first circuit current is i one right
+now therefore if you find out this because
+
+of this mutual inductance or it will be the
+voltage drop sub voltage drop in circuit two
+
+then due to the current in circuit one is
+given by v two is equal to j omega same as
+
+before into m two one i one right so so j
+omega we will remain as it is but lambda two
+
+one is equal to m two one into i one volts
+is right so this is the voltage drop in the
+
+second circuit so this way we can determine
+that mutual inductance but details we will
+
+see later right now inductance of a single
+conductor so transmission lines are thats
+
+why every step i have written it here such
+that we should not miss anything so transmission
+
+lines are composed of parallel conductors
+and can be assumed as infinite long because
+
+if you if you have seen the over a transmission
+line we can assume there parallel conductors
+
+right and it can be we we assume that there
+infinite long
+
+so in based on that we will develop expressions
+for flux linkages of an isolated current carrying
+
+cylindrical conduct so we will assume that
+conductors such of cylindrical type right
+
+solid conductors right with return path lying
+at infinity that means we will see that ah
+
+what you call isolated curr current carrying
+cylindrical conductor and return path is lying
+
+at infinity means this will completed single
+ton circuit right based on these assumption
+
+and and magnetic and your what you call ah
+and magnetic flux lines are concentric enclosed
+
+cir concentric closed circles with direction
+given by the right hand rule i will told you
+
+at the beginning that if this is that if this
+is the your vertical thing that conductor
+
+and if you rub the conductor like this and
+if this is the direction of the current then
+
+this will be the flux lines right
+so with direction given by the right hand
+
+rule so next is i mean next is to calculate
+the inductance of a conductor it is a necessary
+
+to consider the flux inside the conductor
+as well as the external flux both internal
+
+as well as external both the flux linkages
+we have to considered to determine the inductance
+
+of a single conductor right current carrying
+conductor now internal flux progressively
+
+links smaller amount of current as we proceed
+inwards towards the center of the conductor
+
+for example for example say they this is the
+cross sectional view of the conductor right
+
+and it is carrying current so now now when
+you proceed and if and we assume that uniform
+
+current density we assume uniform can you
+proceed suppose this is the center from this
+
+center from this surface actually if you move
+towards the center right then what we will
+
+happen it progressive links as smaller amount
+of current because we are assume in the current
+
+density say it is uniform right
+we are assuming that therefore as we move
+
+like this then we that means your internal
+flux progress progressively links as much
+
+suppose if you make all internal flux line
+all internal i mean i making it like this
+
+suppose you make all intern ah flux line like
+this flux line like this like this as you
+
+move from this one towards the centre then
+it progressively links smaller amount of current
+
+right so that means as we that means it is
+written here as we proceed inwards towards
+
+the centre of the conductor right so an external
+flux always link the total current inside
+
+the conductor external flux means ah this
+is out ah that is outside the conductor if
+
+this is the conductor then outside the conductor
+so it will always link the total current in
+
+the conductor right
+so based on this we will try to find out what
+
+will be the internal ah your what you call
+that in inductance first so suppose this is
+
+this is your figure one i write and ah this
+is your this is your conductor right it is
+
+a long cylindrical conductor and this is the
+cross sectional view and its radius is actually
+
+r right and you consider at a distance x right
+a small no small your ah infinite a small
+
+that lay in d x this is your d x and this
+is the arc lengths is very small one it is
+
+actually d l right and from here that e electric
+field intensity at a distance x because from
+
+here it is x here it is x it is a circular
+path so from here say you assume that is your
+
+your what you call that electric field it
+is your magnetic field intensity is h x right
+
+so this is a cross sectional view of conductor
+this is a radius r and at a distance h we
+
+consider small ah very small this thing ah
+your with d x right and this is that your
+
+length d l this is the your what we call the
+arc length d l right
+
+so in this case what what we will what we
+will do that the m m f round a concentric
+
+close circular path of radius x this is a
+concentric closed circular path of radius
+
+x right ah internal to the co conductor as
+shown in figure one so this is your figure
+
+one this is figure one right and therefore
+the loop integral you can write in that h
+
+x into d l is equal to i x suppose at a distance
+ah x the current is say i x right this why
+
+you defined and then where h x is equal to
+magnetic field intensity that is ampere transfer
+
+meter at a distance x meter from the center
+of the conductor so here also it is x here
+
+also it is here also it is x right that the
+distance x from the center of the conductor
+
+right and i x is equal to current enclosed
+up to distance x so i x is equal to ah current
+
+enclosed up to this distance x right is a
+ampere right
+
+since the field field is symmetrical as the
+field is totally symmetrical that the h x
+
+h x is constant that every point right so
+h x is constant for all points equidis equidistant
+
+from the centre so field is symmetrical so
+it is a circular path so everywhere h x we
+
+will remain constant so if it is so then h
+x if h x remain constant then this this d
+
+l integration of this d l actually it will
+be the total circumference that will be your
+
+two pi x right that is your two pi x and h
+x is constant everywhere so into h x this
+
+integral actually is equal to in h x is constant
+that everywhere so h x will remain as it is
+
+and d l it is circuit this is the total arc
+length but you can if you take the total circumference
+
+integral of that loop integral then it will
+be two pi x into h x is equal to this current
+
+your what you call is equal to i x right so
+there this is equation fourteen
+
+now so we will we will neglect skin effect
+we will neglect this and assuming uniform
+
+current density that means at that if you
+take the cross section we will take the uniform
+
+current density right so at a distance at
+a distance x i just hold on at a at a distance
+
+x right so this this area of this pi x square
+and at a distance r area of the circle is
+
+pi r square so at a distance x current is
+i x so current we will assume that current
+
+density is uniform therefore i x upon pi x
+square is equal to i upon pi r square right
+
+therefore i x is equal pi pi will be cancel
+on both side i x is equal to x square upon
+
+x square into i this is equation fifteen right
+so after this from equation fourteen and fifteen
+
+we obtain so in equation fourteen here it
+is so equation fourteen right in equation
+
+fourteen you substitute i x is equal to this
+one and ah small simply this h x will become
+
+that i upon two pi r square into x ampere
+ton per meter right
+
+so this is equation sixteen so for a nonmagnetic
+conductor with constant permeability mu zero
+
+the magnetic flux density b x at a distance
+x from the centre is right therefore again
+
+again the again the for a look non magnetic
+conductor with constant permeability new zero
+
+right so at a distance x what will be my b
+x there flux density right so in this case
+
+what you can do is that d x is equal to actually
+b x is equal to your new zero into h x and
+
+h x is equal to i upon h x is equal to two
+i upon two pi as square into x so new zero
+
+into i upon two pi r square into x right so
+this is equation seventeen right so i mu zero
+
+is the permeability of the free space or air
+right and is equal to four pi into ten to
+
+the power minus seven henry per meter so now
+the differential flux d phi x for a small
+
+region of thickness d x that means this one
+this diagram again right
+
+so differential flux d x for a small region
+of thickness this this is thickness is d x
+
+this is d x right and one meter length of
+the conductor is so the small difference is
+
+d x d phi x is equal to b x into d x into
+and it is something like this i hope you will
+
+be able suppose you fold it suppose this is
+a this is your conductor this is a conductor
+
+suppose this is this length is this length
+is one meter and you have this thickness is
+
+d x right this thickness if you fold it then
+this thickness is d x and ah this length is
+
+one meter so area will be this portion d x
+into one square meter right i think you have
+
+got it so that means ah ah that means that
+d phi x is equal to b x that is a flux density
+
+up a meter square into this area d x into
+one right
+
+so thats why the differential flux d phi x
+for a small reason of thickness d x and one
+
+meter length your considering of the conductress
+d phi x is equal to b x into d x into one
+
+that is b x is equal to mu zero i upon two
+pi a square into x right into your what you
+
+call d x so this is equation eighteen so the
+flux d phi x actually links only the fraction
+
+of the conductor because it is at a distance
+x right it is at a distance x only so it links
+
+that your fraction of the your conductor right
+therefore on the assumption of uniform current
+
+density therefore on the assa we have assume
+the current density uniform right only the
+
+fractional turn we call reality this there
+is no turn because it is constructional we
+
+have constructor but only the fractional turn
+of the total current is linked by the flux
+
+because at a distance the area is at a distance
+x area it phi x square and conductor radius
+
+is r so its radius is phi r square so we call
+this ratio pi x square upon pi r square pi
+
+r square as a fractional turn of the total
+current is linked by this flux right
+
+this way we imagine so in that case then what
+we will happen then flux linkage will be this
+
+is the fractional turn so flux linkage will
+be a d d lambda x into this is actually fractional
+
+turn right into d phi x right so x square
+upon r square pi pi cancel actually x square
+
+upon r square into d phi x so d phi x is equal
+to you have seen that mu zero by r they have
+
+d phi x is equal to here it is mu zero i upon
+two pi square into x into d x substitute then
+
+you will get the d phi x is equal to mu zero
+into i divided by two pi r to the power four
+
+into x cube d x this is equation number nineteen
+right now there is the conduct radius is r
+
+so integrate from zero to r right then you
+will get the total internal ah flux linkages
+
+so lambda internal is equal to zero to r mu
+zero i two pi r to the power four into x cube
+
+d x so you integrate and this will be mu zero
+into i upon eight pi weber tons per meter
+
+after integrating right so you will find that
+this is the independent of r right there is
+
+no r because it will come know r to the power
+four upon four so r to the power four four
+
+we cancel right so this is equation twenty
+there is lambda internal actually is equal
+
+to we can ah mu zero is equal to four pi into
+ten to the power minus seven henry per meter
+
+square so you substitute here four pi into
+ten to the power minus seven divided by eight
+
+pi into i weber tons per meter square right
+or lambda internal is equal to half into ten
+
+to the power minus seven into i weber ton
+per meter right
+
+so lambda internal this is the flux linkage
+per meter therefore inductance internal is
+
+equal to lambda upon i so l internal is equal
+to lambda internal upon i is equal to half
+
+into ten to the power minus seven henry per
+meter that means this internal induct internal
+
+inductance of a current carrying conductor
+alternating ah current carrying conductor
+
+right is half into ten to the power minus
+seven henry per meter and it is independent
+
+of the radius or diameter of the conductor
+that means whatever may be the diameter of
+
+the conductor right or radius of this thing
+radius of the conductor whatever may be radius
+
+or diameter this l internal is always a constant
+value that is half into ten to the power minus
+
+seven henry per meter square this is i have
+marked one equation number twenty one
+
+so that is that ah that is the internal inductance
+of a current carrying conductor conductor
+
+half into ten to the minus minus seven right
+next one is that inductance due to external
+
+flux linkage so this is the cross sectional
+view of the conductors right so ah what we
+
+have taken we have taken to this radius of
+this conductor is r we have we have taken
+
+two external point one is at p that is from
+the centre of the conductor the distance is
+
+d one this ah this from the center of the
+conductor to this point p distance is d one
+
+and another point we have taken q and the
+distance is d two right and we have taken
+
+this ah this thing right d two and these two
+points are external these are the flux line
+
+we have taken right so now so that this is
+figure two flux linkages between two external
+
+points p q write p and q so thats why we have
+written here figure two shows two points p
+
+and q at distances d one and d two from a
+conductor which carries a current i ampere
+
+so current is carrying by this conductor is
+i right since the magnetic lines of flux are
+
+concentric circle this all this line concentric
+circle surround this say your around the conductor
+
+whole of the flux between points p and q right
+within the concentric cylinder surfaces right
+
+which pass through the pass through this points
+right so all are concentric i didnt between
+
+this point is taken q here p here so in between
+p and q q point whatever the flux lines there
+
+concentric right so the field intensity at
+a distance x right so we have taken at its
+
+some distance x external to the conductor
+upon this x is external to the conductor so
+
+the field intensity at a distance x can be
+given as h x is equal to i upon two pi x we
+
+have seen that any point this magnetic field
+intensity h x we will remain constant because
+
+is a concentric circle right and and at a
+distance x the circumference is two pi x
+
+so i is equal to an conductor is carrying
+current i so h x is equal to i upon two pi
+
+x is equal to ampere transfer meter wherever
+possible i have given the your units right
+
+this is equation twenty two now and the flux
+density just you have seen at a distance x
+
+b x is equal to mu zero into h x so mu zero
+h x is i upon two pi x this is weber per meter
+
+square this is equation this is equation twenty
+three right so the flux outside the conductors
+
+linked the entire current i you are the beginning
+i told right and hence the flux linkage d
+
+lambda x is numerically equal to the flux
+d phi x here no question of fractional turn
+
+will come because it is external to the conductor
+so numerically d lambda x and differential
+
+flux d phi x both are same right
+therefore the flux d phi x for a small region
+
+of thickness d x that small region of thickness
+d x the flux differential flux d phi x here
+
+right and and we consider one meter length
+of the co conductor its given by d lambda
+
+x is equal to d phi x both are same is equal
+to b x into d x into one because same same
+
+concept of this area right this is your if
+you imagine like this this cylinder this thickness
+
+is d x and this length is one meter and this
+thickness is d x right then if you fold it
+
+then this thickness in this one d x into one
+the cross sectional area right so in this
+
+case same as be for d lambda x is equal to
+d phi x is equal to b x into d x into one
+
+is equal to you substitute b x again mu zero
+i upon two pi x d x this is weber per weber
+
+per meter right so this is equation twenty
+four therefore the total flux linkage of the
+
+conductor due to flux between points p and
+q you have to obtain
+
+so distance of point p from the center of
+the conductor is d one and point q is d two
+
+so what we have to do is you have to integrate
+this right that means lambda t q right between
+
+this two point integration limit is d one
+to d two mu zero into i upon two pi x into
+
+d x is equal to mu zero i upon two pi and
+if you int if you ah integrate it this will
+
+be natural law l n d two upon d r d one right
+this is equation twenty five right therefore
+
+the inductance between two points that is
+p and q external to the conductor is then
+
+given by ah l external is equal to lambda
+p q upon i so lambda p q is this much divided
+
+by i means this i this i will be cancel so
+it will be mu zero upon two pi natural law
+
+l n d two upon the d one henry per meter right
+and if you substitute mu zero is equal to
+
+four pi into ten to the power minus seven
+henry per meter if you substitute mu zero
+
+then two pi two pi will be cancel right
+ah so ultimately it will be l x ah your it
+
+will be four pi ah divided by four pi into
+twenty to the power seven divided by two pi
+
+that means l external be two into ten to the
+power minus seven l n d to upon d one henry
+
+per meter this is your equation twenty six
+right so that means what is in this case we
+
+can see that l external case it depends on
+that your what we call later we will see that
+
+from centre of the ah conductor to some distance
+d how things will happen but if you have two
+
+points d one and d two right so you will external
+is function of this your both the distance
+
+d one and d two right so it is dependent on
+their distance d one and d two later we will
+
+see how ah we will ah simplify further right
+so next one is that inductance of a single
+
+phase two wire line right for example before
+this thing that suppose you have taken that
+
+your single phase two wire lines right
+so this is one conductor that red red one
+
+this is another conductor we assume its radius
+is r one is radius is r two it is it is your
+
+current i one and plus means the current entering
+into the page of the conductor right thats
+
+why plus thing is given this is return path
+dot is showing that means current living the
+
+page right and distance between these two
+conductor ah is d right so this is single
+
+phase two wire system so one is carrying your
+current i one that is going living into this
+
+and this is return path actually right and
+we have to find out that inductance of a single
+
+phase two wire line
+

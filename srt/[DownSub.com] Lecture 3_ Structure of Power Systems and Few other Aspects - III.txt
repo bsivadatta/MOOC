@@ -1,0 +1,840 @@
+so next is your second example example two
+right this one so i hope previous one you
+
+might have under understood right ah and its
+very simple thing this all these things are
+
+right so a generating station has a maximum
+demand of eighty megawatt and a connected
+
+load of one fifty megawatt right if megawatt
+hour that is energy generated in a year is
+
+that is annual energy generation year is four
+hundred into ten to the power three a megawatt
+
+hour you have to compute load factor and demand
+factor right so maximum demand is given eighty
+
+megawatt right connected load also given one
+fifty megawatt units generated in one year
+
+is given four hundred into ten to the power
+three megawatt hour it is given in megawatt
+
+hour generated in a year is four hundred into
+ten to the power three right and total number
+
+of hours in a year is equal to t is equal
+to eight seven six zero right so all data
+
+are known right therefore average load you
+can find that it is annual energy generated
+
+divided by the total number of hours
+so it is four hundred into ten to the power
+
+three divided by t t is equal to eight seven
+six zero is equal to forty five point six
+
+six two megawatt right a load factor lf is
+equal to average load by maximum load so average
+
+load is forty five point six six two megawatt
+and maximum is eighty so load factor is point
+
+five seven right and demand factor df is equal
+to maximum demand by connected load maximum
+
+demand was eighty megawatt and connected load
+one fifty megawatt therefore demand factor
+
+is equal to point five three three right so
+these are simple example but all these terminology
+
+whatever we have used so we will take one
+after another few example such that it will
+
+be understandable to you next is example three
+right so a sample distribution system is shown
+
+in figure five figure five i will show you
+later one of the feeders supplies an industrial
+
+load with a peak of two megawatt and the other
+supplies residential loads with a peak of
+
+two megawatt combined peak demand is three
+megawatt determine a the diversity factor
+
+of the load connected to transformer b the
+load diversity of the load connected to transformer
+
+and c the coincidence factor of the load connected
+to transformer
+
+so these three things you have to obtain now
+figure five for this example right so it is
+
+it is given this sub transmission system transformer
+is there this is this is distribution ah substation
+
+and this is industrial load residential load
+and these are for future loads this is a diagram
+
+samples ah distribution system of example
+three right now from equation seven diversity
+
+factor is that from equation seven that diversity
+factor formula is fd is equal to sigma i is
+
+equal to one to n pi upon pc but here you
+have a two consumers right ah your here it
+
+is given one for industrial another for your
+residential right industrial and residential
+
+so n is equal to two so i is equal to one
+to two pi that is by pc that is p one plus
+
+p two upon pc right so it is given for both
+the cases industrialism industrial load with
+
+a peak of two megawatt and other supplier
+residential load with a peak of two megawatt
+
+that means p one is equal to two p two is
+equal to two that is two plus two and total
+
+and combined peak demand is three megawatt
+so pc is equal to three megawatt right so
+
+two plus two by three so it is one point three
+three three right so this is your diversity
+
+factor
+now from equation fourteen from equation fourteen
+
+that load diversity ld is equal to sigma i
+is equal to one to n pi minus pc n is equal
+
+to two p one is equal to p two is equal to
+two megawatt and pc is equal to three megawatt
+
+right therefore load diversity is equal to
+p one plus p two minus pc that is two plus
+
+two minus three megawatt a load diversity
+is one megawatt and from equation thirteen
+
+coincidence factor is cf is equal to one upon
+diversity factor right is equal to one upon
+
+one point three three three is equal to point
+seven five right
+
+so this numerical this problems are very you
+know very simple very simple right next stage
+
+we will try to establish a relationship between
+load factor or and the loss factor also direct
+
+is not possible but we will try to establish
+some relationship so relationship between
+
+load factor and loss factor right first before
+coming to this in general loss factor cannot
+
+be determined from the load factor right so
+generally generally it is directly it is not
+
+possible however the limiting values of the
+relationship can be established right so figures
+
+this is figure six it shows an arbitrary and
+idealized load curve and it does not represent
+
+a daily load curve this is just to establish
+a relationship something has been drawn so
+
+if you tik take this y axis first take the
+load say this is peak load for a this thing
+
+is p two and off peak load is p one and its
+average is this dash line is the average load
+
+right something something we have drawn
+so this peak load that your the duration is
+
+from zero to small t timing right and off
+peak load from your t to t the duration will
+
+be capital t minus small t right so this is
+peak load p two and off peak load is p one
+
+average is p average this is the load curve
+this is something has been drawn it is the
+
+it is the idea ideal ah load curve right something
+has been taken corresponding this two a that
+
+peak load for the system suppose loss is peak
+loss is l two responding this peak load the
+
+loss is your peak loss this loss also peak
+loss also will exist from zero to t only because
+
+peak load is zero to t right and then here
+your your off peak off peak due to for off
+
+peak load p one the loss is l one right this
+is that this is that off peak load l one right
+
+and then this duration is from small t to
+capital t that means t minus t right and this
+
+is also i know i know
+
+this dash line blue dash line is the average
+loss so this kind of a just to establish the
+
+we will try to establish relationship between
+that your load factor lf and the last factor
+
+llf right but this is nothing it is not reality
+but for the sake of your you know for the
+
+sake of establishing a relationship we have
+make it may you are made it like this right
+
+if we do so then assume that the peak load
+p two so the i told you peak load is p two
+
+this p two and corresponding loss is peak
+loss is l two i told you and ah and at off
+
+peak load p one loss is l one off peak load
+is p one and corresponding loss is l one right
+
+and the load factor is lf is equal to p average
+upon p max here we have taken that this is
+
+some average load line so this is my p average
+divided by peak p max p max is nothing but
+
+the p two right so this is equation twenty
+three now from figure six i mean this figure
+
+from this figure if you see like this ah that
+from figure six if you see that your p average
+
+is equal to p two it duration is t so p two
+into t small t small t plus that duration
+
+of p one is this is now low load level p one
+duration is capital t minus small t so plus
+
+p one into capital t minus small t divided
+by total duration zero to t that is that is
+
+your divided by t right
+so that is your p average therefore from equation
+
+twenty three and twenty four we obtain that
+is your load factor is equal to this p average
+
+this p average you substitute here right if
+you subs if you substitute here then load
+
+factor is equal to p two into t plus p one
+into capital t minus small t divided by p
+
+two into capital t right i hope this part
+is understandable to all of you right next
+
+that means this one this one this load factor
+lf is equal to i am rewriting once again p
+
+two plus p one into t minus capital t divided
+by p two into t that means this one it can
+
+be written as p two into t divided by p two
+into capital t plus p one into t minus t divided
+
+by p two into t this way you can write therefore
+l f is equal to p two p two will be canceled
+
+so t by t plus it will be p one upon p two
+into t minus t by t right that means ah this
+
+lf this lf
+
+so here we are writing this l f is equal to
+therefore whatever i wrote that t by small
+
+t by capital t plus one upon p two into t
+minus t upon t this is equation twenty five
+
+right similarly the loss factor is double
+llf right llf is equal to l average upon l
+
+max right so from this ah from third figure
+it is your this this line is l average l average
+
+upon l two right l two is the peak loss that
+means during peak load this is the peak loss
+
+l two right so that means l max is equal to
+l two this is equation twenty six l max is
+
+equal to maximum power loss is equal to l
+two and l average is equal to average power
+
+loss from figure six similarly you will obtain
+same thing that peak loss is existing from
+
+zero to t so l two into t plus your l one
+is l one is that the your off peak power loss
+
+so it is l one into t minus t divided by the
+your t right so that is your l average total
+
+duration is t so that is your equation twenty
+seven similarly this loss also you can write
+
+so this l average this l average you substitute
+here you substitute this l average expression
+
+in twenty six here here you substitute if
+you substitute here then you will see thats
+
+why i am writing from equation twenty six
+and twenty seven we get lf is equal to l two
+
+into t plus l one into t minus t divided by
+l two into t same as before
+
+so this is twenty eight right now small t
+is the peak load duration and capital t minus
+
+small t is equal to off [vocalized noise]
+off peak load duration now the copper losses
+
+are the function of associate load we know
+that your power loss is in general i square
+
+r loss right and i means the current and hence
+that current is depend on the load only right
+
+are are the function of the associate loads
+therefore the loss at off peak and peak load
+
+can be expressed as at off peak hours loss
+is l one is equal to some constant into p
+
+one square because as because loss actually
+is proportional to the square of the load
+
+i mean approximately proportional to the square
+of the load load have different characteristic
+
+but for the establishing this relationship
+the loss is so off peak hours off peak hours
+
+load is p one and loss is l one this this
+k is the constant of proportionality it will
+
+remain same for both right
+
+so l one is equal to k into p one square similarly
+at peak hours loss l two is equal to k into
+
+p two square right this this is quite valid
+this is quite true because loss is proportional
+
+to i square and i depends current depends
+on the load hence the loss also to some extent
+
+relate to the square of the load right therefore
+this l one this l one is equal to k into p
+
+one square right and l two is equal to k into
+p two square you substitute in equation twenty
+
+eight this l one and l two expression you
+substitute here in equation twenty eight if
+
+you do so therefore you are writing from equation
+twenty eight twenty nine and thirty therefore
+
+from equation twenty eight twenty nine and
+thirty we get lf is after simplification lf
+
+is equal to small t by capital t plus p one
+upon p two whole square into t minus capital
+
+t minus small t divided by capital t this
+is equation thirty one you substitute and
+
+just simplify same as before right therefore
+loss factor is expression is this one right
+
+no by equi by using equation twenty five and
+thirty one let that means this equation that
+
+means using this equation this is the load
+factor your equation and this is the loss
+
+factors equation using this two equation we
+will try to establish a relationship between
+
+load factor and your loss factor right so
+how to how to make it so for three different
+
+cases we will consider from that we will try
+to establish some relationship case one off
+
+peak load is zero that means there is no off
+peak load that means if no off peak load then
+
+p one is zero that means your l one is also
+zero loss off peak load p one zero means at
+
+off peak load zero means off peak loss is
+also zero therefore from equation twenty five
+
+and thirty one so equation twenty five is
+this one so here you put p one is equal to
+
+zero and your what you call l one your if
+you put p one is equal to zero
+
+in this expression then what will happen that
+a your lf will become if you put here let
+
+me write down if it is take this take this
+equation twenty five for the case one is off
+
+peak load is zero that means this case one
+off peak load is zero that means if p one
+
+is equal to zero and then l one is then l
+one is also zero therefore your equation your
+
+twenty five equation twenty five here it is
+lf is equal to t by t plus p one by p two
+
+into t minus t by capital t but here pone
+is zero that means l f is equal to small t
+
+by capital t right similarly in equation thirty
+one equation thirty one is this one this is
+
+for lf equation thirty one this expression
+is there loss factor is equal to small t by
+
+capital t plus p one by p two whole square
+into t minus t by capital t but p one is zero
+
+if you put p one zero this term will not be
+there therefore loss factor also is equal
+
+to t by t right this one here also this one
+that means for the case of for where off peak
+
+load is zero that means load factor is equal
+to loss factor thats why here we are writing
+
+that if off peak load is zero then therefore
+equation from equation twenty five will get
+
+that lf is equal to this is from equation
+twenty five lf is equal to small t by capital
+
+t and from thirty one also we get a itthis
+llf is equal to t by t therefore this thing
+
+and this thing they are same lf llf lf is
+equal to llf therefore this we have lf is
+
+equal to llf is equal to it is your ah t by
+t small t by capital t write therefore it
+
+is your equation thirty two that is load factor
+is equal to the loss factor and they are equal
+
+to small t by capital t is equal to constant
+
+this is for the case one this case one we
+have assumed right because we have to establish
+
+some relationship thats why you have assumed
+right similarly now case two very short lasting
+
+peak right in this case the time t tends to
+zero therefore equation if you look at equation
+
+twenty five just hold on equation twenty five
+equation twenty five when t minus your ah
+
+t ah ah very short lasting peak that means
+here t tends to zero hence in equation twenty
+
+five that t minus t divided by t tends to
+one therefore we can make it loss factor is
+
+equal to this thing from equation twenty five
+and thirty one come to this ah thirty one
+
+where is equation thirty one this one right
+when t tends to t tends to zero right ah where
+
+it has gone yes yes ah when t minus t upon
+t your ah distance to one right and llf is
+
+equal to your here t tends to zero so from
+this two condition from this two condition
+
+you will get that loss factor is equal to
+load factor square you take t tends to zero
+
+and equation twenty five and thirty one if
+t tends to zero means t minus t upon t tends
+
+to your what you call ah your one right and
+in the end in the twenty and in that equation
+
+your ah load factor equation when just hold
+on ill make it here such that the things will
+
+be easier for you right first you consider
+twenty five right and the condition is that
+
+your ah case two that very short lasting peak
+that means t tends to first you come t tends
+
+to zero right that means t minus t by capital
+t it tends to one point zero because t tends
+
+to zero then this term tends to one therefore
+equation twenty five you take equation twenty
+
+five it is load factor is equal to t by t
+plus p one by p two into t minus t by t as
+
+t tends to zero
+
+this is this this terminology tends to one
+and this is zero that means lf equal to p
+
+one by p two this is your load factor for
+this condition similarly if you look at equation
+
+twenty five right not twenty five thirty one
+that loss factor expression that loss factor
+
+expression is i am writing here llf this is
+equation thirty one it is t by t plus p one
+
+by p two right whole square then t minus t
+by capital t as t tends to zero and this t
+
+minus small t upon capital t tends to one
+that means llf is equal to your p one by p
+
+two square this term will vanish and this
+tends to one it will p one p two whole square
+
+right and your lf lf is equal to p one upon
+p two that means this one is equal to load
+
+factor square that means loss factor for this
+condition is equal to square of the load factor
+
+therefore we are writing this one that here
+t tends to zero therefore from equation twenty
+
+five and thirty one loss loss factor is equal
+to load factor square this is equation thirty
+
+three another condition is while load is steady
+that is here t tends to t constant load is
+
+steady t tends to t that is the difference
+between peak and off leak load is negligible
+
+almost constant in that case you will get
+same thing from equation twenty five you will
+
+get loss factor is equal to load factor right
+
+so that means your small t is tends to your
+capital t right therefore load is steady in
+
+that case you will get it ah that loss factor
+is equal to load factor that means one condition
+
+we we got three different condit[ion]- conditions
+but therefore in general the it is coming
+
+like this first condition whatever we saw
+that loss factor is equal to load factor then
+
+another condition you took it is your equal
+to lf square so generally load factor is less
+
+than ah less than one so ah so and therefore
+loss factor will be greater than lf square
+
+square of the load factor but less than your
+load factors so greater than square of the
+
+your lf square and less than lf so this is
+this is the ah that ah this is that your what
+
+you call the condition for the loss factors
+something can be established but in general
+
+it has been observed that the loss factor
+cannot be determined directly from the load
+
+factor it is not possible right however and
+approximate formula to relate the loss factor
+
+to the load factor as that loss factor is
+equal to point three into load factor plus
+
+point seven into your load factors square
+this this equation or this terminology is
+
+used by many particularly for the you know
+ah for the city areas or ah this thing ah
+
+this formula is quite quite valid but if it
+is a rural rural areas right rural feeder
+
+or this thing in that case instead of point
+three it comes point two into lf plus point
+
+eight
+
+lf square right so and approximately it has
+been found that this this equation what relates
+
+ol between loss factor and the load factor
+right so this is the relationship between
+
+loss factor and the load factor these are
+all these general thing i am telling in the
+
+at the beginning right after that we will
+see something different but you one should
+
+be familiar with all sort of terminology loss
+factor load factor everything but for rural
+
+feeder rural load if this instead of point
+three it is point two they take and it is
+
+point eight some other relationships also
+comes because loss factor or load factor depends
+
+on the load growth also which i will not tell
+anything yet but it depends on the load growth
+
+also right next is your load growth actually
+whenever you see any anyany sort of thing
+
+load is increasing right continuously right
+so some cases some places maybe it is at a
+
+rate of three percent four percent five percent
+annually or even more so load growth is always
+
+there so if load inc load increases so general
+your load increases means demand is increasing
+
+right and demand increases means suppose in
+a particular network load demand is increasing
+
+means that you need to supply the need to
+supply that load
+
+so in that case if load increases you have
+to think many thing because power loss will
+
+increase then every every year load is increasing
+that means voltage will also at different
+
+point will go down right all these things
+you need to maintain at a appropriate level
+
+so load growth is the most important factor
+that is inevitable that load will increase
+
+right influencing the expansion of distribution
+system forecasting of load increases is essential
+
+to the planning period so one has to forecast
+the load that how things will happen i am
+
+what i am telling you here just the preliminary
+thing or basic thing right but load growth
+
+is the important part of our power system
+right so if the if the if the load growth
+
+rate is known right then load at the end of
+the m th year is given by so suppose pm is
+
+equal to p zero one plus g to the power m
+this is eqaution thirty seven where pm is
+
+the load at the end of mth year suppose today
+at this point it is the base year that is
+
+initial load right
+so suppose suppose this two thousand seventeen
+
+at this point load is p zero next year at
+this time it will be ah it is suppose it is
+
+increasing at a rate of say five percent so
+g is the annual load growth rate say g is
+
+the five percent and it is number of years
+that means pm is the load at the end of the
+
+m th year p zero initial load load at the
+base year g is the annual load growth rate
+
+and m is the number of years for example ah
+for example suppose suppose your pm we are
+
+writing that p zero one plus g to the power
+m right p zero is the load at the you know
+
+or this thing base year that means at this
+suppose this year right and g is the annual
+
+your load growth rate so suppose g is equal
+to five percent that is zero point zero five
+
+right therefore your pm is equal to it can
+be written as p zero one plus zero point zero
+
+five to the power m that means pm is equal
+to p zero one point zero five to the power
+
+m right when base year when m is equal to
+zero pm is equal to p zero say its automatic
+
+now when m is equal to one pm is equal to
+p zero into one point zero five when m is
+
+equal to two pm is equal to p zero into one
+point zero five square and so on
+
+similarly for m is equal to three pm is equal
+to sorry i can put pm m is equal to one p
+
+one after first year when m is equal to two
+after that p two is equal to this one similarly
+
+when m is equal to three p three is equal
+to your p zero one point zero five cube right
+
+suppose p zero if you take say hundred kilowatt
+for example right so first year load will
+
+be hundred kilowatt next year it will be hundred
+into one point zero five right hundred five
+
+now second year it will be hundred into one
+point zero five square third year it will
+
+be hundred into one point zero five cube and
+
+so on this is that load growth rate ah formula
+right that pm is equal to p zero one plus
+
+g to the power m right next actually take
+another example a another example a substation
+
+it supplies power to four feeders right feeder
+a has six consumers whose individual daily
+
+maximum demands are seventy kilowatt ninety
+kilowatt twenty kilowatt fifty kilowatt ten
+
+kilowatt and twenty kilowatt right while maximum
+demand on the feeder is two hundred kilowatt
+
+similarly for feeder b it supplies four consumers
+whose daily maximum demand are 
+
+sixty kilowatt forty kilowatt seventy kilowatt
+and thirty kilowatt right while maximum demand
+
+on feeder b is one sixty kilowatt right feeder
+c and d have a daily maximum demand of o e
+
+fifty kilowatt and two hundred kilowatt respectively
+while the maximum demand on the station is
+
+six hundred kilowatt right so in this case
+you have to find out right dive diversity
+
+factor i didnt write here that what you have
+to obtain you have to find out diversity factor
+
+for feeder a and feeder b
+so from equation six diversity factor is fd
+
+is equal to sum of individual maximum demands
+divided by coincident maximum demand for feeder
+
+a coincident maximum demands is given two
+hundred kilowatt it is given right and therefore
+
+so sum up individual maximum demand so six
+are there seventy ninety twenty fifty ten
+
+and twenty watt they are all kilowatts divided
+by coincident maximum demand two hundred kilowatt
+
+so for feeder a diversity factor is one point
+three similarly for feeder b four consumers
+
+are there sixty plus forty plus seventy plus
+thirty all are in kilowatt and their peak
+
+is one sixty
+therefore diversity factor for this one is
+
+one point two five right so next one is for
+feeder b then diversity factor of the four
+
+feeders fd is equal then add two hundred plus
+one sixty plus one fifty plus two hundred
+
+divided by sixty it comes about one point
+one eight three the diversity factor of the
+
+four feeders right feeder a feeder b and for
+the four feeders so for feeder b one point
+
+two five and for the four feeders other two
+feeders data are given feeders c and d they
+
+were daily maximum one fifty and two hundred
+here we have made other two are two hundred
+
+and one sixty and maximum demand of the station
+is six hundred kilowatt so diversity factor
+
+of the all four feeders will be two hundred
+plus one sixty plus one fifty plus two hundred
+
+that is one point one eight three
+

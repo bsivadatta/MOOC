@@ -1,0 +1,792 @@
+therefore ah the plant factor is that plant
+factor is equal to actual energy produced
+
+divided by maximum plant rating into t this
+is t is that that specify time t so this is
+
+equation three plant factor is mostly used
+in geneti[cs]- ah ah in generation studies
+
+it is also given as annual plant factor is
+equal to actual energy generation by maximum
+
+plant rating right or annual plant factor
+that actual annual energy generation or maximum
+
+plant rating into eight seven six zero in
+a year total number of hours is eight seven
+
+six zero so three way it can be defined one
+is actual energy generation by maximum plant
+
+rating or actual annual energy generation
+by maximum plant ah by maximum plant rating
+
+into eight seven six zero so this is your
+equation five next is that your diversity
+
+factor
+so it is the ratio of the sum of the individual
+
+maximum demand of the various sub divisions
+or groups or consumers to the maximum demand
+
+of the whole system right so what is this
+it is ratio of sum of individual maximum demands
+
+of the various subdivisions or groups or consumers
+to the maximum demand of the whole system
+
+for example diversity at loop diversity factor
+we are using system fd because demand factor
+
+we have used either df so thats why i have
+made fd so there should not be any confusion
+
+right so diversity factor we term it as fd
+is given as fd is equal to sum of individual
+
+maximum demand by coincident maximum demand
+
+or we can write suppose individual maximum
+demand say if p one p two p three like this
+
+if they are the maximum demand for individual
+ah consumers right so diversity factor fd
+
+is equal to sum i is equal to one to n right
+pi divided by pc pi is the maximum demand
+
+of load i right divide and pc is equal to
+coincident maximum demand of group of n loads
+
+so this is equation seven so diversity factory
+we will use the term fd not df because demand
+
+factor df earlier we have used right so this
+is actually your diversity factor hm next
+
+is so these are und understandable right you
+have n a n n your n number of consumers and
+
+for each one you will take suppose you have
+n is equal to three so here it should be p
+
+one p two for example it is like this suppose
+you have ah suppose suppose you have here
+
+n is equal to three then diversity factor
+fd will be p one plus p two we will take example
+
+later on p three divided by your pc right
+so p one p two p three they are individual
+
+maximum demand of your what you call that
+each each type of consumers divided by the
+
+coincidence maximum demand that is pc right
+so p one p two p three is the individual maximum
+
+demand right
+so next is the diversity factor can be equal
+
+or greater than unity right so from equation
+one the demand factor is df is equal to maximum
+
+this is from equation one we are writing demand
+factor is equal to maximum demand upon total
+
+connected load therefore maximum demand is
+equal to total connected load into diversity
+
+factor a demand factor
+
+so maximum demand is equal to df total connected
+load into df this is equation eight right
+
+now for ith consumer for ith consumer let
+us assume total connected load is equal to
+
+tcpi right and total connected load tcpi and
+demand factor dfi this is for ith consumer
+
+right let us assume this therefore equation
+eight can be written as pi is equal to tcpi
+
+into dfi this is equation nine so maximum
+demand what p one p two p three i was telling
+
+just now right suppose for i th consumer it
+is pi and total and total connected load total
+
+connected load for ith consumer we define
+tcpi so t is total connected load at tcpi
+
+into for the ith consumer the demand factor
+we can put dfi this is equation nine right
+
+so from equation seven and nine you will get
+that your diversity factor fd is equal to
+
+sigma i one to n tcpi into dfi upon pc this
+is equation this is equation ah seven this
+
+is equation seven and here you are substitute
+this thing this one you are replacing by your
+
+your pi is equal to tcpi into dfi soin this
+equation you are substituting pi is equal
+
+to tcpi into dfi right divided by that pc
+so this is equation ten so that is your diversity
+
+factor fd df is demand factor but fd is the
+diversity factor next one is the coincidence
+
+factor coincidence factor it is the ratio
+of the maximum coincident total demand of
+
+a group of consumers to the sum of the maximum
+power demands of individual consumers comprising
+
+the group both taken at the same point of
+supply for the same time later i will take
+
+few example after that you will see this things
+are quite easy yeah it is the ratio of the
+
+maximum coincidence total demand of a group
+of consumers of a group of consumers different
+
+type of consumers maybe commercial industrial
+agricultural like this right to the sum of
+
+the maximum power demands of individual consumers
+comprising the group both taken at the same
+
+point of supply for the same time right that
+means the coincidence factor you define it
+
+is by cf is cf is equal to coincidence maximum
+demand divided by sum of individual maximum
+
+demand so this is equation eleven
+
+so coincidence maximum demand already defined
+pc is the coincidence maximum demand previously
+
+we have defined pc divided by sum of individual
+maximum demand this also we have defined right
+
+so cf is equal to pc divided sigma i is equal
+to one to n it just just reciprocal of the
+
+your diversity factor right because diversity
+factor sum sigma pi your i is equal to one
+
+to n and divided by pc and coincidence factor
+is just opposite pc divided by sigma i is
+
+equal to one to n pi this this equation is
+number is twelve right that means if you if
+
+you see equation seven just hold on before
+this if you if you see equation seven here
+
+equations that diversity factor fd is equal
+to sigma i is equal to one to n pi upon pc
+
+seven and this coincidence factor is equal
+to just just a reciprocal of it pc divided
+
+by sigma i is equal to one to n pi this is
+seven this is equation twelve fd is equal
+
+to one one upon cf or fd into cf is equal
+to one right that means 
+
+that means from equation just now i told from
+equation twelve and seven we get cf is equal
+
+to one upon fd this is equation thirteen right
+does the a coincidence factor is the reciprocal
+
+of the diversity factor or diversity factor
+is the reciprocal of the coincidence factor
+
+right
+now load diversity so it is the difference
+
+between the sum of the peaks of two or more
+individual loads and the peak of the combined
+
+load right therefore load diversity is defined
+as ld you are defining load diversity you
+
+define it by ld is equal to sigma i is equal
+to one to n pi minus pc this is equation fourteen
+
+it is the difference between the sum of the
+peaks of two or more individual loads suppose
+
+you have three different type of loads are
+there so their peak you are adding so i is
+
+equal to one to n pi right or and the peak
+of the combined your what you call minus the
+
+peak of the combined load that is pc you have
+defined earlier right so that is your load
+
+diversity ld is equal to this one minus pc
+this is equation fourteen right
+
+so this is your load diversity 
+now next is contribution factor it is given
+
+in per unit of the individual maximum demand
+of the ith load if ci is the contribution
+
+factor of the i th load to the group of maximum
+demand that is ci means suppose ah suppose
+
+your ah it is a given given in per unit of
+the individual maximum demand suppose a suppose
+
+power is hundred kilo watt and ci is that
+fraction of it
+
+so maybe point four so point four is hundred
+forty kilo watt something like this right
+
+so if the ci is the contribution factor of
+the ith load to the group of maximum demand
+
+then pc is equal to c one into p one plus
+c two into p two up to cn into pn that means
+
+pc is equal to i is equal to one to n ci pi
+if this equation number is fifteen right so
+
+from equation twelve and fifteen you will
+get equation twelve mean this equation just
+
+hold on so this is equation this is equation
+twelve pc upon ah your sigma i is equal to
+
+one to n pi so pc here is i is equal to one
+to n ci pi therefore cf is equal to we are
+
+we are substituting pc here a from equation
+twelve and fifteen i is equal to n to ci pi
+
+divided by i is equal to one to n pi right
+so this is actually equation sixteen this
+
+is your this is cause your one one thing just
+there should not be any confusion just one
+
+hold on that just one minute i put this one
+this contribution factor right so anyway so
+
+this is your cf is equal to this one this
+is equation sixteen right
+
+now consider consider case one if say if p
+one is equal to p two is equal to p three
+
+up to pn is equal to p say all are equal right
+then cf is equal to your basically all are
+
+all are p p one is equal to p three all are
+p then it will basically p into i is equal
+
+to one to n ci right p p will be canceled
+here also all are p sum of p so it will be
+
+p into n because it is p plus p plus p up
+to nth term so it will be n into p pp will
+
+be cancelled so cf will be sigma i is equal
+to one to n ci right the coincidence factor
+
+in this case is equal to the average contribution
+factors so average means sum all divided by
+
+n so this is average contribution factor right
+similarly case two if c one is equal to c
+
+two is equal to c three cn up to up to say
+is equal to c all are c all are same contribution
+
+factor in this case cf will be c into sigma
+i is equal to one to n pi upon i is equal
+
+to one to n pi right so is equal to this this
+term this term will be cancelled so cf will
+
+be is equal to c that that is coincidence
+factor is equal to the contribution factor
+
+right so so so still now we have seen so many
+terminology right next is load factor actually
+
+first to have to see all these we have to
+familiar with all sort of terminology then
+
+if you take example i will take few examples
+right then things will be your ah you know
+
+much clear so thats why before putting an
+example in between first we have taken this
+
+all this ah terminology right next load factor
+so it is the ratio of the average load over
+
+a designated period of time to the peak load
+occurring on that period right therefore load
+
+factor we are defining by lf so load factor
+is equal to your average load by peak load
+
+right so this is equation nineteen or load
+factor will define average load into t divided
+
+by peak load into t just a your this way also
+we can define or load factor is equal to this
+
+term energy served divided by peak load into
+t this is equation twenty either average load
+
+by peak load or load factor is equal to energy
+served divided by peak load into t this is
+
+equation twenty t is equal to time it may
+be in days maybe weeks months or years or
+
+if t is large load factor is small right for
+a large t generally you will find that load
+
+factor is small the reason for this is that
+for the same maximum demand the energy consumption
+
+cover a larger time period and results in
+a smaller average load
+
+so load factor is less than or equal to unity
+generally less than one right less than one
+
+and annual load factor can be defined as this
+annual load factor is equal to total annual
+
+energy divided by annual peak load into eight
+seven six zero number of hours in a year is
+
+eight seven six zero so this is equation twenty
+one right now another terminology that is
+
+the loss factor right say meaning is same
+load factor- only thing is that it is the
+
+ratio of the average power loss to the peak
+load power loss during a specified period
+
+of time this is called loss factor right for
+example therefore the loss factor is defined
+
+as we defined llf loss factor we defined as
+llf is equal to average power loss divided
+
+by power loss at peak load right so this is
+equation say twenty two
+
+so equation twenty two is applicable to the
+copper loss of the system but not for iron
+
+loss that means loss factor you can compute
+is for i square r loss only but not for iron
+
+losses right so only applicable to the i square
+r loss next we will take one example for example
+
+so a power station supplies the load as given
+bellow say time duration is given for example
+
+say time is hours six am to eight am load
+is one point two megawatt eight am to nine
+
+am load is two megawatt nine am to twelve
+noon
+
+it is say three megawatt twelve noon to two
+pm one point five megawatt and two pm to six
+
+pm two point five megawatt then six pm to
+eight pm one point eight megawatt eight pm
+
+to nine pm it is two megawatt nine pm to eleven
+pm it is one megawatt eleven pm to five am
+
+it is point five megawatt and five am to six
+am it is point eight megawatt this data are
+
+given a power station as given below so that
+means twenty four hours data that load variations
+
+are given to you right so what you have to
+do is you have to you have to first deter[mine]-
+
+first thing plot the load curve and find out
+the load factor next is determine the proper
+
+number and size of generating units to supply
+this load c is find the reserve capacity of
+
+the plant and plant factor and d is find out
+the operating schedule of the generating units
+
+selected so this four thing you have to determine
+based on the given data solve sense first
+
+what you do you draw the load curve forget
+about this line it is up to this only you
+
+think right so first is six ten six am ten
+am this way am are two pm six pm ten pm two
+
+am six am right so at six am at six am ah
+six am to eight am load is one point two megawatt
+
+so at six am it is one point two so it will
+come up to your two your six to eight am
+
+some are here so have to your it is one point
+two megawatt now eight am to nine am two megawatt
+
+so here it has gone to two megawatt and it
+is eight to nine just one hour right and again
+
+nine am to twelve noon the peak nine am to
+twelve noon if it is going to peak it is three
+
+megawatt right and then the twelve noon to
+two pm one your ah nine am to twelve noon
+
+it is your ah this thing twelve noon is here
+somewhere here is twelve noon it is three
+
+megawatt then twelve noon to two pm one point
+at twelve noon again it is going down to one
+
+point five somewhere here right and it is
+upto two pm here right again two pm to six
+
+pm two point five so at two pm again it is
+going to two point five to six pm means up
+
+to this two point five megawatt then six pm
+to eight pm one point zero so it is coming
+
+down to six pm one point zero up to six it
+is going after that coming down right one
+
+point zero eight zero rather one point eight
+zero to eight pm somewhere here then eight
+
+pm to nine one hour it is two megawatt it
+is two megawatt and nine pm to eleven am one
+
+megawatt
+so at nine it is coming down nine to eleven
+
+it is one megawatt right and then eleven pm
+to five am this is eleven pm somewhere here
+
+to five am up to this it is point five megawatt
+here it is a point five megawatt and five
+
+am to six am point eight zero megawatt so
+for five am it is going to point eight then
+
+for six am point eight is ok but again it
+will you have to you have to come here again
+
+it is six am is coming so finally one point
+two megawatt this is also this point is also
+
+one point two megawatt so this way you should
+complete this your what you call that your
+
+load curve this is this is called your you
+plot the load curve first right
+
+so once this load curve is plotted this is
+a time and this is the ah your what you call
+
+megawatt load and peak is of course the your
+ah three megawatt right once you compute that
+
+load curve then the units generated during
+twenty four hours right so again again what
+
+will do that first you calculate units generated
+in twenty four hours so in that case ah that
+
+if you see here just side by side i am trying
+to put right so six am to eight am one point
+
+two megawatt and six to eight mean two hours
+so two into one point two plus two megawatt
+
+load but eight to nine only one hours so one
+into two plus that nine am to twelve am twelve
+
+noon so that means three hours and three megawatt
+load so plus three into three plus this twelve
+
+noon to two pm that means two hours right
+so two into one point five load is one point
+
+five megawatt plus two pm to six pm that means
+four hours load is two point five so four
+
+into two point five then plus six pm to eight
+pm mean two hours into one point eight load
+
+is one point eight megawatt plus eight pm
+to nine that is one hour one into two megawatt
+
+load into two then plus nine pm to eleven
+that means two hours load is one megawatt
+
+so two into one plus your eleven pm to five
+am that means six hours in load is point five
+
+megawatt so six into point five plus five
+am to six am that will one hour load is point
+
+eight so into point eight this much of megawatt
+hour this way you should compute that unit
+
+is generated during twenty four hours right
+once once you have done this that is is equal
+
+to total unit generate is thirty after ah
+calculating all this it is thirty seven point
+
+eight megawatt hour right now average load
+is just we have seen know load factor units
+
+generated by time in hours so units generated
+is thirty seven point eight megawatt hour
+
+and divided by twenty four because duration
+duration duration from six to six six am to
+
+six am is twenty four hours
+
+so it is your ah twenty four hours so that
+is one point five seven five megawatt that
+
+is the average load right and load factor
+is equal to lf is equal to average load by
+
+maximum load so maximum load is ah three megawatt
+maximum is three megawatt so have load factor
+
+is equal to one point five seven five upon
+three that is is equal to point five two five
+
+that is so this is a load factor now next
+is that maximum demand next point b just b
+
+is that you have to determine the proper number
+and size of generating units to supply this
+
+load listen we are not doing here any economics
+we are not trying to optimize anything just
+
+just to have some ideas so this point is given
+determine the proper number and size of generating
+
+units to supply this load so from our intuition
+we will try to make it but any not considering
+
+any cost benefit analysis or anything just
+just through give us a idea right so b number
+
+b is that second point is you have to determine
+the proper number and size of generating units
+
+to supply this load right
+
+so in this case in this case that maximum
+demand is three megawatt right and that means
+
+you have to supply power this three megawatts
+of power therefore if we choose four generating
+
+units of rating one megawatt each may be selected
+suppose we are taking four generating units
+
+and each one is having is rating is one megawatt
+say right therefore during that period of
+
+maximum demand three units can operate it
+can operate will operate and it will attached
+
+to operate at its full load because one megawatt
+rating and one unit will remain as standby
+
+by chance if one unit goes off another unit
+may be switched on right so from the reliability
+
+purpose one one four generating units is considered
+if you consider three megawatt and three units
+
+that is fine as long as it will generate there
+is no loss of generation but if one generator
+
+becomes faulty then it cannot supply the load
+thats why one extra is taken right
+
+so four is taken so three units will operate
+and one unit will remain as standby right
+
+next one is next next point is given find
+the reserve capacity of the plant and plant
+
+factor right so in that case plant capacity
+is equal to four into one because we have
+
+taken we have considered four generating units
+each one one megawatt so it is four into one
+
+so four megawatt and reserve capacity will
+be then maximum demand is three megawatt so
+
+reserve capacity will be four minus three
+is equal to one megawatt right now from equation
+
+three the plant factor is equal to actual
+energy produced divided by maximum plant rating
+
+into t now actual energy this is from equation
+three right so actual energy actual energy
+
+produced is equal to thirty seven point eight
+megawatt hour just now we have seen thirty
+
+seven point eight megawatt hour right and
+make and the plant max plant capacity now
+
+four megawatt so maximum plant rating will
+be four megawatt so time duration is twenty
+
+four hours therefore plant factor is equal
+to thirty seven point eight divided by maximum
+
+plant rating is four megawatt so it is four
+four four and number of hours is t is equal
+
+to twenty four time duration twenty four hours
+because six am to six am interval so it is
+
+coming around point three nine three seven
+five
+
+for example if you are chosen if you are chosen
+instead of four five ah your five generating
+
+units right in that case plant capacity should
+have been five megawatt then reserve capacity
+
+should have been five minus three say two
+megawatt right
+
+so in that case this thirty seven point eight
+zero divided five into twenty four that means
+
+this plant factor ah will shall be less than
+this one right so but anyway so this is your
+
+what you call plant factor ah is point three
+nine three seven five and last one this number
+
+d last one that find out the operating schedule
+of the generating units selected right you
+
+have to find out how these units will operate
+so in that case what one can do is if you
+
+see of your own that ah that ah one generating
+unit of one megawatt must work for twenty
+
+four hours because they have no where lord
+is zero minimum is point eight if you look
+
+at that data ah if you look at data that we
+are sorry minimum is point five megawatt sorry
+
+point five megawatt so that means this one
+generator has to be on for twenty four hours
+
+because this point five megawatt load has
+to be supplied because minimum is point minimum
+
+load is point five megawatt right and then
+second generating unit of one megawatt ah
+
+requires six am to nine pm that fifteen hours
+if you look carefully at least six am to nine
+
+pm you can observe that load is more than
+one megawatt
+
+thats why two units required if you look at
+that your six am to nine pm say six am if
+
+you look at that every higher one point two
+two three all these things going on till two
+
+pm right ah six am to nine pm rather up to
+this you say that it is more than two right
+
+two ah or it is more your what you call ah
+six am to ah nine am fifteen hours second
+
+generating unit of one megawatt is required
+because all the time load is two so this two
+
+unit is also required but if you see third
+generating unit one megawatt nine am to twelve
+
+noon and two pm to six pm seven hours required
+that means it is overlapping so this nine
+
+am to twelve noon and two pm to six pm for
+this seven hours you need all the three units
+
+should be on right so that means for one megawatt
+one unit for twenty four hours then another
+
+generating units must be on six am to nine
+pm for fifteen hours and third unit nine am
+
+to twelve noon as well as two pm to six pm
+seven hours because the load will be during
+
+this duration it will be more than two megawatt
+right so this way from your intuition from
+
+your common sense you can find out how this
+generator operating schedule can be ah can
+
+be desired made right so from the data and
+from whatever we have made it here you can
+
+have a look and just see this is this is the
+way that things can be i mean operating schedule
+
+can be prepared
+
