@@ -11,7 +11,8 @@ Video Source :
 	Power system Analysis videos used for text processing : https://nptel.ac.in/courses/117/105/117105140/
 	C-Programming videos : https://nptel.ac.in/courses/106/104/106104128/
 	Java : https://nptel.ac.in/courses/106/105/106105191/
-Source to custom train YOLOv3:
+
+To know more about how to custom train YOLOv3:
 	https://towardsdatascience.com/training-yolo-for-object-detection-in-pytorch-with-your-custom-dataset-the-simple-way-1aa6f56cf7d9
 	
 	https://github.com/cfotache/pytorch_custom_yolo_training
