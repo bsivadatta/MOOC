@@ -12,7 +12,7 @@ Video Source :
 	C-Programming videos : https://nptel.ac.in/courses/106/104/106104128/
 	Java : https://nptel.ac.in/courses/106/105/106105191/
 To extract frames from a video:
-	ffmpeg -i video.mp4 -vf fps=0.02 img/output%06d.png
+	ffmpeg -i video.mp4 -vf fps=0.05 img/output%06d.png
 To know more about how to custom train YOLOv3:
 	https://towardsdatascience.com/training-yolo-for-object-detection-in-pytorch-with-your-custom-dataset-the-simple-way-1aa6f56cf7d9
 	
