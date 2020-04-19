@@ -3,8 +3,8 @@ Codes towards trying to make MOOCs a better place.
 
 Data 
 	For CNN 
-    	Train :https://drive.google.com/open?id=1Y4Xnsp2l3eiacFoSxbKCUevn_NYDBMDI
-    	Test : https://drive.google.com/open?id=1RPeI9vULB8fl1scmbgMkDXT-4xJ4kcuc
+    	Train      : https://drive.google.com/open?id=1fMh_ZDuN7rPmh8wZlLOFk2Zb0clGmshB
+    	Validation : https://drive.google.com/open?id=1rVs-5NZYGJ0n7dPOmJ1gyVfvQ2N6TehC
   	For Custom YOLO
 		https://drive.google.com/open?id=1U-3AgSJ7H_CvMonSews_wN5nwS98nOgY
 Video Source :
