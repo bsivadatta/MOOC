@@ -1,6 +1,6 @@
 # MOOC
 Codes towards trying to make MOOCs a better place.
-
+Please view the BTP_Presentation_17EC10010.pptx for complete presentation to get an idea of the project.
 Data 
 	For CNN 
     	Train      : https://drive.google.com/open?id=1fMh_ZDuN7rPmh8wZlLOFk2Zb0clGmshB
